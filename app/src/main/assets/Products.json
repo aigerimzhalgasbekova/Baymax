@@ -1,0 +1,46 @@
+{
+  "Partner's data": [
+    {
+      "Product":"Apple",
+      "Price":1.99,
+      "Bio":"YES",
+      "Discount":"NO",
+      "Store":"K-market"
+    },
+    {
+      "Product":"Pear",
+      "Price":2.55,
+      "Bio":"NO",
+      "Discount":"NO",
+      "Store":"Lidle"
+    },
+    {
+      "Product":"Cucumber",
+      "Price":3.15,
+      "Bio":"YES",
+      "Discount":"NO",
+      "Store":"Lidl"
+    },
+    {
+      "Product":"Avocado",
+      "Price":3.55,
+      "Bio":"YES",
+      "Discount":"YES",
+      "Store":"S-market"
+    },
+    {
+      "Product":"Banana",
+      "Price":1.85,
+      "Bio":"NO",
+      "Discount":"YES",
+      "Store":"K-market"
+    },
+    {
+      "Product":"Rice",
+      "Price":1.98,
+      "Bio":"YES",
+      "Discount":"NO",
+      "Store":"S-market"
+    }
+  ]
+}
